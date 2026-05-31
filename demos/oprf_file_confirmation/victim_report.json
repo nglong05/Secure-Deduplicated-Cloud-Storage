@@ -1,0 +1,14 @@
+{
+  "affected": true,
+  "company": "FinPay",
+  "environment": "production",
+  "fix_available": true,
+  "internet_facing": true,
+  "patched_in_production": false,
+  "report_type": "daily_vulnerability_gate",
+  "scan_date": "2026-05-29",
+  "scanner": "trivy",
+  "service": "payment-api",
+  "severity": "CRITICAL",
+  "target_cve": "CVE-2026-41721"
+}
