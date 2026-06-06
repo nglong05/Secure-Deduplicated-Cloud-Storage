@@ -1,7 +1,0 @@
-{
-  "created_at": "2026-05-29T02:15:00Z",
-  "file_id": "file_8f3a12",
-  "source": "oprf-protected files table leak",
-  "tag": "46925e177d6fe6f264fdf103bf267708ba7d82373286c7fdf15ec59000953bd6",
-  "tag_scheme": "Tag = SHA256(pk_pow), pk_pow derived from OPRF(server_secret, Hash(file))"
-}
